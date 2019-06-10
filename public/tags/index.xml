@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chang&#39;s Memo</title>
-    <link>https://example.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Chang&#39;s Memo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
     <lastBuildDate>Mon, 10 Jun 2019 15:04:48 +0800</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>vacuum</title>
-      <link>https://example.com/tags/vacuum/</link>
+      <link>/tags/vacuum/</link>
       <pubDate>Mon, 10 Jun 2019 15:04:48 +0800</pubDate>
       
-      <guid>https://example.com/tags/vacuum/</guid>
+      <guid>/tags/vacuum/</guid>
       <description></description>
     </item>
     

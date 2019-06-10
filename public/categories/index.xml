@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Chang&#39;s Memo</title>
-    <link>https://example.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Chang&#39;s Memo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
     <lastBuildDate>Mon, 10 Jun 2019 15:04:48 +0800</lastBuildDate>
     
-	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>metallizing&#39;s condition</title>
-      <link>https://example.com/categories/metallizings-condition/</link>
+      <link>/categories/metallizings-condition/</link>
       <pubDate>Mon, 10 Jun 2019 15:04:48 +0800</pubDate>
       
-      <guid>https://example.com/categories/metallizings-condition/</guid>
+      <guid>/categories/metallizings-condition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>diary</title>
-      <link>https://example.com/categories/diary/</link>
+      <link>/categories/diary/</link>
       <pubDate>Sat, 08 Jun 2019 20:29:37 -0700</pubDate>
       
-      <guid>https://example.com/categories/diary/</guid>
+      <guid>/categories/diary/</guid>
       <description></description>
     </item>
     

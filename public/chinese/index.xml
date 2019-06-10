@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>中文 on Chang&#39;s Memo</title>
-    <link>https://example.com/chinese/</link>
+    <link>/chinese/</link>
     <description>Recent content in 中文 on Chang&#39;s Memo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
     <lastBuildDate>Sat, 08 Jun 2019 20:29:37 -0700</lastBuildDate>
     
-	<atom:link href="https://example.com/chinese/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/chinese/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>爸爸，我怎么没有碰你的头啊</title>
-      <link>https://example.com/chinese/diary-190608/</link>
+      <link>/chinese/diary-190608/</link>
       <pubDate>Sat, 08 Jun 2019 20:29:37 -0700</pubDate>
       
-      <guid>https://example.com/chinese/diary-190608/</guid>
+      <guid>/chinese/diary-190608/</guid>
       <description>今天在家，带宝宝去游乐场玩了下，宝宝很开心。 从游乐场回去的时候抱她上车，因为要她</description>
     </item>
     
