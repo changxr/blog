@@ -1,0 +1,83 @@
+baseURL                   = "https://example.com"
+builddrafts                = false
+languageCode               = "zn-Hans"
+canonifyurls               = true
+contentdir                 = "content"
+layoutdir                  = "layouts"
+publishdir                 = "public"
+enableEmoji                = true
+hasCJKLanguage             = true
+summaryLength              = 40
+Paginate                   = 3
+
+theme                      = "memo"
+title                      = "Chang's Memo"
+
+pygmentsuseclasses         = true
+
+
+[permalinks]
+  blog                     = "blog/:year-:month/:slug/"
+
+
+[taxonomies]
+  tag                      = "tags"
+  series                   = "series"
+  category                 = "categories"
+
+
+[menu]
+  [[menu.main]]
+    name                   = "Blog"
+    weight                 = -120
+    identifier             = "blog"
+    url                    = "blog/"  
+
+  [[menu.main]]
+    name                   = "中文"
+    weight                 = -110
+    identifier             = "chinese"
+    url                    = "chinese/" 
+
+  [[menu.main]]
+    name                   = "About"
+    weight                 = -100
+    identifier             = "about"
+    url                    = "about/"  
+
+ 
+
+[params]
+  faviconfile              = "/img/zheng.png"               # from static/
+  avatar                   = "/img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
+  author                   = "Chang Jiaqi"
+  description              = ["My name is Chang Jiaqi.", "I am a husband of a beautiful woman and a father of a 2-year-old girl.", "I works in metallization."]           # appears in the site header when set to a non-empty string
+  welcome_head             = "Reason is the slave of the passions"
+  welcome_word             = "from the words of David Hume"
+
+  latestpostscount         = 5                             # how many posts to display on the home page
+  bloggroupby              = 'month'
+  dateform                 = "Jan 2, 2006"
+  dateformfull             = "2006-01-02  Monday  15:04:05"
+  noshowreadtime           = false                         # if true, don't show "<x> minutes read" in posts
+
+  # slides
+  slidesDirPath  = "static/img/header-slides"  
+  slidesDirPathURL = "img/header-slides"
+
+  # highlighting 
+  highlightjs              = true
+
+  # latex
+  katex                    = true
+
+  # links
+  email                    = "sale2@sdbaofeng.com"
+  linkedin                 = "//linkedin.com/in/jiaqi-chang-4b6611178/" 
+  px500                    = "//www.alibaba.com/product-detail/Vacuum-Coating-Machine-Metallizer-for-Metallizing_62088832853.html?spm=a2700.7724838.2017115.79.1e8e50e65IPZFJ"
+  #include_rss              = true                          # include RSS <link> tag in <head> and show RSS icon
+  
+  # analytics
+  #googleAnalytics          = "your-google-analytic-id"
+    
+    

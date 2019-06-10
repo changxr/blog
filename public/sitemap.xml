@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/blog/</loc>
+    <lastmod>2019-06-10T15:04:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2019-06-10T15:04:48+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2019-06-10T15:04:48+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/series/</loc>
+    <lastmod>2019-06-10T15:04:48+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2019-06-10T15:04:48+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/2019-06/what-is-vacuum/</loc>
+    <lastmod>2019-06-10T15:04:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/series/metallization-know-how/</loc>
+    <lastmod>2019-06-10T15:04:48+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/metallizings-condition/</loc>
+    <lastmod>2019-06-10T15:04:48+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/vacuum/</loc>
+    <lastmod>2019-06-10T15:04:48+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/diary/</loc>
+    <lastmod>2019-06-08T20:29:37-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/chinese/</loc>
+    <lastmod>2019-06-08T20:29:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/chinese/diary-190608/</loc>
+    <lastmod>2019-06-08T20:29:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2018-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
