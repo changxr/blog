@@ -53,7 +53,7 @@ pygmentsuseclasses         = true
   author                   = "Chang Jiaqi"
   description              = ["My name is Chang Jiaqi.", "I am a husband of a beautiful woman and a father of a 2-year-old girl.", "I works in metallization."]           # appears in the site header when set to a non-empty string
   welcome_head             = "Reason is the slave of the passions"
-  welcome_word             = "from the words of David Hume"
+  welcome_word             = "David Hume"
 
   latestpostscount         = 5                             # how many posts to display on the home page
   bloggroupby              = 'month'
@@ -72,7 +72,7 @@ pygmentsuseclasses         = true
   katex                    = true
 
   # links
-  email                    = "sale2@sdbaofeng.com"
+  email                    = "me@changjiaqi.me"
   linkedin                 = "//linkedin.com/in/jiaqi-chang-4b6611178/" 
   px500                    = "//www.alibaba.com/product-detail/Vacuum-Coating-Machine-Metallizer-for-Metallizing_62088832853.html?spm=a2700.7724838.2017115.79.1e8e50e65IPZFJ"
   #include_rss              = true                          # include RSS <link> tag in <head> and show RSS icon
