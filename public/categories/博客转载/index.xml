@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Chang&#39;s Memo</title>
-    <link>/blog/</link>
-    <description>Recent content in Blog on Chang&#39;s Memo</description>
+    <title>博客转载 on Chang&#39;s Memo</title>
+    <link>/categories/%E5%8D%9A%E5%AE%A2%E8%BD%AC%E8%BD%BD/</link>
+    <description>Recent content in 博客转载 on Chang&#39;s Memo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
     <lastBuildDate>Wed, 12 Jun 2019 15:04:48 +0800</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/%E5%8D%9A%E5%AE%A2%E8%BD%AC%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>/blog/2019-06/%E5%A1%91%E6%96%99%E8%96%84%E8%86%9C%E6%80%A7%E8%83%BD%E5%A4%84%E7%90%86%E5%92%8C%E6%A3%80%E6%B5%8B/</guid>
       <description>性能 聚乙烯（PE）薄膜 PE薄膜的透气性较好，但随着薄膜密度的增加，其透气性降低。</description>
-    </item>
-    
-    <item>
-      <title>What is Vacuum</title>
-      <link>/blog/2019-06/what-is-vacuum/</link>
-      <pubDate>Mon, 10 Jun 2019 15:04:48 +0800</pubDate>
-      
-      <guid>/blog/2019-06/what-is-vacuum/</guid>
-      <description>It is not easy to image what is vacuum, however, everyone knows its opposite: a open air space. Air is a mixture of gases, the relative volumes(in percent) of gas compositions in dry air is as following:
-   Gas Composition Symbol Percentage     Nitrogen $ N_2 $ 78.</description>
     </item>
     
   </channel>
