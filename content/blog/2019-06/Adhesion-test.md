@@ -1,7 +1,7 @@
 ---
 date: "2019-06-14T15:04:48+08:00"
 draft: false
-title: "AIMCAL金属附着力定性测试-TP-104-87/"
+title: "AIMCAL金属附着力定性测试-TP-104-87"
 tags: ["薄膜"]
 series: ["metallization know-how"]
 categories: ["博客转载"]
